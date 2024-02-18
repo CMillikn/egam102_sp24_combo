@@ -7,7 +7,7 @@ public class EgamMicrogameHelper : MonoBehaviour
 
     // Game values
     [SerializeField] private string _gameCommand = "Command!";
-    [SerializeField] private float _gameDuration = 10f;
+    [SerializeField] private float _gameDuration = 13f;
     [SerializeField] private WinLose _timeoutResult = WinLose.Lose;
 
     public enum WinLose
